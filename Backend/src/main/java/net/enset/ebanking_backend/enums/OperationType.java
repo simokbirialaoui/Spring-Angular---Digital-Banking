@@ -1,0 +1,7 @@
+package net.enset.ebanking_backend.enums;
+
+public enum OperationType {
+    DEBIT,CREDIT
+
+
+}

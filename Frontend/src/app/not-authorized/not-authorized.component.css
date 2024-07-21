@@ -1,0 +1,22 @@
+body {
+  background-color: indianred;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-authorized-title {
+  font-size: 4rem;
+  justify-content: center;
+
+  margin-bottom: 20px;
+}
+.not-authorized-message {
+  font-size: 1.2rem;
+  color: white;
+  margin-bottom: 20px;
+}
+.back-to-home {
+  margin-top: 20px;
+}
